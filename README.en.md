@@ -57,6 +57,34 @@ It locks the same adult character identity, hairstyle, outfit, footwear, black s
 
 ---
 
+### 03 | White Studio Outfit Emotion Presets
+
+A fixed-preset Skill with eight built-in white-studio outfits and matching emotions. Each Look generates:
+
+- Front view
+- 90° Side view
+- Back view
+- Matching emotional Headshot
+
+The default character is a clearly adult young East Asian woman in a minimal white studio with soft high-key lighting, realistic skin texture, and realistic fabric rendering.
+
+### Built-in 8 Looks
+
+1. White asymmetric camisole + denim shorts — chin-up smug expression
+2. Pink-gray plaid shirt + black shorts — huge joyful grin
+3. Blue-white striped shirt + black mini skirt — tearful downward gaze
+4. Gray knit cardigan + denim mini skirt — exaggerated angry O-mouth
+5. Black floral square-neck maxi dress — blushing face-covering shyness
+6. White sleeveless top + irregular beige skirt — tilted-head skeptical eyebrow raise
+7. Light-pink tiered maxi dress — wide-eyed explosive anger
+8. Black floral camisole maxi dress — sleepy yawning expression
+
+**Best for:** fixed outfit batch generation, wardrobe archives, expression sheets, Fashion Lookbooks, and Character Sheets.
+
+➡️ **[Open Skill 03](./skills/03-white-studio-outfit-emotion-presets/SKILL.md)**
+
+---
+
 ## Repository Structure
 
 ```text
@@ -68,16 +96,18 @@ It locks the same adult character identity, hairstyle, outfit, footwear, black s
 └── skills/
     ├── 01-three-view-emotion-outfit-board/
     │   └── SKILL.md
-    └── 02-mirror-selfie-lookbook-emotion-board/
+    ├── 02-mirror-selfie-lookbook-emotion-board/
+    │   └── SKILL.md
+    └── 03-white-studio-outfit-emotion-presets/
         └── SKILL.md
 ```
 
 Future Skills can continue in numeric order:
 
 ```text
-03-skill-name/
 04-skill-name/
 05-skill-name/
+06-skill-name/
 ```
 
 ---
