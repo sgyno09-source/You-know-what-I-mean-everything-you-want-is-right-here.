@@ -88,6 +88,38 @@
 
 ---
 
+### 04｜暗黑电影情绪角色设定卡预设
+**Dark Emotion Character Card Presets**
+
+把强情绪表演、固定穿搭、荒诞小道具和电影感摄影，整理成暗黑高级角色设定卡：
+
+- 左侧约 60%：大尺寸半身情绪特写
+- 右侧：Front 正面 / 3/4 View 半侧 / Side 侧面
+- 底部：白色手绘粗线描边 Headshot
+- 左上：大号编号 + 中英文情绪标题
+- 底部：PROP 道具标签
+
+固定黑灰摄影棚、冷灰电影光、低饱和、真实泪水与皮肤纹理、轻微电影颗粒，整体像心理剧情电影人物档案与高级时尚杂志概念页。
+
+### 内置 8 套情绪预设
+
+1. 无声流泪｜Silent Tears｜浅灰褶皱连衣裙｜Water Bottle
+2. 崩溃大哭｜Breakdown｜奶油白针织抹胸裙｜Banana
+3. 咬唇忍哭｜Bite Back Tears｜杏奶油露肩蕾丝裙｜Water Bottle
+4. 怒目而视｜Cold Fury｜奶油白挂脖蕾丝裙｜Banana
+5. 大声争吵｜Loud Argument｜黑缎上衣 + 黑皮短裙｜Water Bottle
+6. 不屑嘲讽｜Mocking Smirk｜黑色 V 领迷你裙｜Banana
+7. 极度委屈｜On the Verge of Tears｜黑色缎面吊带裙｜Water Bottle
+8. 隐忍侧颜｜Restrained Resolve｜黑色蕾丝针织吊带裙｜Banana
+
+其中香蕉 + 银灰胶带只作为荒诞视觉梗 / 概念艺术道具，不作为武器。
+
+**适合：** 情绪角色档案、电影人物设定卡、暗黑时尚拼版、心理剧情概念海报、Character Sheet。
+
+➡️ **[打开 Skill 04](./skills/04-dark-emotion-character-card-presets/SKILL.md)**
+
+---
+
 ## 仓库结构
 
 ```text
@@ -101,16 +133,18 @@
     │   └── SKILL.md
     ├── 02-mirror-selfie-lookbook-emotion-board/
     │   └── SKILL.md
-    └── 03-white-studio-outfit-emotion-presets/
+    ├── 03-white-studio-outfit-emotion-presets/
+    │   └── SKILL.md
+    └── 04-dark-emotion-character-card-presets/
         └── SKILL.md
 ```
 
 后续新增 Skill 继续按编号排列：
 
 ```text
-04-skill-name/
 05-skill-name/
 06-skill-name/
+07-skill-name/
 ```
 
 ---
