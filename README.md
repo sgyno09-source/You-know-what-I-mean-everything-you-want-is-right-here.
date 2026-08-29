@@ -49,6 +49,11 @@ A growing collection of reusable image-generation and visual-workflow Skills.<br
 
 [Open Skill 06 / 打开 Skill 06](./skills/06-four-column-bilingual-fashion-catalog-presets/SKILL.md)
 
+### 07 — Bilingual Wedding Lookbook Presets
+**中英双语婚纱四宫格图鉴预设**
+
+[Open Skill 07 / 打开 Skill 07](./skills/07-bilingual-wedding-lookbook-presets/SKILL.md)
+
 ---
 
 <p align="center">
