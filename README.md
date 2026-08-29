@@ -10,6 +10,12 @@
   <a href="./README.en.md"><kbd>🇺🇸 English</kbd></a>
 </p>
 
+<p align="center">
+  <a href="./docs/SKILL-USAGE.zh-CN.md"><kbd>📘 Skill 使用教程</kbd></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="./docs/SKILL-USAGE.en.md"><kbd>📘 Skill Usage Tutorial</kbd></a>
+</p>
+
 ---
 
 <p align="center">
@@ -53,6 +59,15 @@ A growing collection of reusable image-generation and visual-workflow Skills.<br
 **中英双语婚纱四宫格图鉴预设**
 
 [Open Skill 07 / 打开 Skill 07](./skills/07-bilingual-wedding-lookbook-presets/SKILL.md)
+
+---
+
+## Tutorials / 教程
+
+- [中文 Skill 使用教程](./docs/SKILL-USAGE.zh-CN.md)
+- [English Skill Usage Tutorial](./docs/SKILL-USAGE.en.md)
+
+教程包含：选择 Skill、导入 `SKILL.md`、参考图使用、变量替换、批量 Look、不同图像模型适配、常见问题与新增预设方法。
 
 ---
 
