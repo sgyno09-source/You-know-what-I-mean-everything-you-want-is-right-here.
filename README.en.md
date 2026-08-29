@@ -6,9 +6,13 @@
   <a href="./README.en.md"><kbd>🇺🇸 English</kbd></a>
   &nbsp;&nbsp;
   <a href="./docs/SKILL-USAGE.en.md"><kbd>📘 Skill Usage Tutorial</kbd></a>
+  &nbsp;&nbsp;
+  <a href="./docs/RIGHTS-SAFETY.en.md"><kbd>⚠️ Rights & Likeness Notice</kbd></a>
 </p>
 
 > A growing collection of reusable image-generation, character-design, and visual-workflow Skills.
+
+> **Important:** Using a person reference image, third-party photo, album artwork, logo, branded UI, font, or other asset does not automatically give you copyright, likeness, privacy, or commercial-use rights. Before public or commercial use, verify permissions, privacy, platform rules, and applicable law. See **[Copyright, Likeness & Reference-Image Safety Notice](./docs/RIGHTS-SAFETY.en.md)**.
 
 ---
 
@@ -18,7 +22,13 @@ New to the repository? Open the full guide first:
 
 ➡️ **[Skill Usage Tutorial](./docs/SKILL-USAGE.en.md)**
 
-It covers:
+Also review:
+
+➡️ **[Copyright, Likeness & Reference-Image Safety Notice](./docs/RIGHTS-SAFETY.en.md)**
+
+This is especially important when using real-person references, celebrity / influencer likenesses, album artwork, brand logos, recognizable product UI, or any commercial workflow.
+
+The tutorial covers:
 
 - what a Skill is
 - how to choose the right Skill
@@ -82,7 +92,9 @@ Premium white-studio bridal catalog pages with bilingual wedding-dress titles, e
 ├── SKILL.md
 ├── docs/
 │   ├── SKILL-USAGE.zh-CN.md
-│   └── SKILL-USAGE.en.md
+│   ├── SKILL-USAGE.en.md
+│   ├── RIGHTS-SAFETY.zh-CN.md
+│   └── RIGHTS-SAFETY.en.md
 └── skills/
     ├── 01-three-view-emotion-outfit-board/
     ├── 02-mirror-selfie-lookbook-emotion-board/
@@ -102,13 +114,16 @@ Future Skills continue in numeric order: `08 / 09 / 10...`.
 ```text
 1. Choose a Skill
 2. Open and import its SKILL.md
-3. Upload a character reference image if needed
+3. Upload a character reference image you have the right to use, if needed
 4. Select a built-in LOOK / OUTFIT or describe a new one
 5. Choose ChatGPT-Image / Midjourney / Flux / SDXL output
 6. Generate one independent prompt per Look
+7. Re-check likeness and asset permissions before public or commercial release
 ```
 
 For the complete workflow, see **[Skill Usage Tutorial](./docs/SKILL-USAGE.en.md)**.
+
+For rights and risk guidance, see **[Copyright, Likeness & Reference-Image Safety Notice](./docs/RIGHTS-SAFETY.en.md)**.
 
 ---
 
@@ -116,4 +131,6 @@ For the complete workflow, see **[Skill Usage Tutorial](./docs/SKILL-USAGE.en.md
   <a href="./README.zh-CN.md"><kbd>🇨🇳 中文说明</kbd></a>
   &nbsp;&nbsp;
   <a href="./docs/SKILL-USAGE.en.md"><kbd>📘 Skill Usage Tutorial</kbd></a>
+  &nbsp;&nbsp;
+  <a href="./docs/RIGHTS-SAFETY.en.md"><kbd>⚠️ Rights & Likeness Notice</kbd></a>
 </p>
