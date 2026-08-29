@@ -29,6 +29,11 @@ A growing collection of reusable image-generation and visual-workflow Skills.<br
 
 [Open Skill 02 / 打开 Skill 02](./skills/02-mirror-selfie-lookbook-emotion-board/SKILL.md)
 
+### 03 — White Studio Outfit Emotion Presets
+**白色摄影棚穿搭情绪预设图鉴**
+
+[Open Skill 03 / 打开 Skill 03](./skills/03-white-studio-outfit-emotion-presets/SKILL.md)
+
 ---
 
 <p align="center">
