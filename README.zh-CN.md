@@ -6,17 +6,27 @@
   <a href="./README.en.md"><kbd>🇺🇸 English</kbd></a>
   &nbsp;&nbsp;
   <a href="./docs/SKILL-USAGE.zh-CN.md"><kbd>📘 Skill 使用教程</kbd></a>
+  &nbsp;&nbsp;
+  <a href="./docs/RIGHTS-SAFETY.zh-CN.md"><kbd>⚠️ 版权 / 肖像权提醒</kbd></a>
 </p>
 
 > 一个持续整理的图像生成、人物设定与视觉工作流 Skill 仓库。
+
+> **重要提醒：** 使用人物参考图、第三方照片、专辑封面、Logo、品牌 UI、字体或其他素材，并不代表你自动拥有相关版权、肖像权或商业使用权。公开发布或商业使用前，请确认授权、隐私、平台规则与适用法律。完整说明：**[版权、肖像权与人物参考图使用提醒](./docs/RIGHTS-SAFETY.zh-CN.md)**。
 
 ---
 
 ## 新手先看
 
-第一次使用建议直接打开：
+第一次使用建议先打开：
 
 ➡️ **[Skill 使用说明教程](./docs/SKILL-USAGE.zh-CN.md)**
+
+同时建议阅读：
+
+➡️ **[版权、肖像权与人物参考图使用提醒](./docs/RIGHTS-SAFETY.zh-CN.md)**
+
+尤其当你要使用真人参考图、明星 / 网红形象、专辑封面、品牌 Logo、真实 UI，或者准备商用时。
 
 教程包含：
 
@@ -96,7 +106,9 @@
 ├── SKILL.md
 ├── docs/
 │   ├── SKILL-USAGE.zh-CN.md
-│   └── SKILL-USAGE.en.md
+│   ├── SKILL-USAGE.en.md
+│   ├── RIGHTS-SAFETY.zh-CN.md
+│   └── RIGHTS-SAFETY.en.md
 └── skills/
     ├── 01-three-view-emotion-outfit-board/
     ├── 02-mirror-selfie-lookbook-emotion-board/
@@ -116,13 +128,16 @@
 ```text
 1. 选择一个 Skill
 2. 打开并导入对应 SKILL.md
-3. 上传人物参考图（可选）
+3. 上传你有权使用的人物参考图（可选）
 4. 告诉模型要使用哪个 LOOK / OUTFIT，或提供新的服装与表情
 5. 指定输出 ChatGPT-Image / Midjourney / Flux / SDXL 版本
 6. 每套 Look 独立输出
+7. 公开发布或商用前再次确认人物与素材授权
 ```
 
 完整操作请看：**[Skill 使用说明教程](./docs/SKILL-USAGE.zh-CN.md)**
+
+风险说明请看：**[版权、肖像权与人物参考图使用提醒](./docs/RIGHTS-SAFETY.zh-CN.md)**
 
 ---
 
@@ -130,4 +145,6 @@
   <a href="./README.en.md"><kbd>🇺🇸 English</kbd></a>
   &nbsp;&nbsp;
   <a href="./docs/SKILL-USAGE.zh-CN.md"><kbd>📘 Skill 使用教程</kbd></a>
+  &nbsp;&nbsp;
+  <a href="./docs/RIGHTS-SAFETY.zh-CN.md"><kbd>⚠️ 版权 / 肖像权提醒</kbd></a>
 </p>
