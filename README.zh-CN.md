@@ -15,14 +15,7 @@
 ### 01｜三视图情绪穿搭图鉴生成器
 **Three-View Emotion Outfit Board Generator**
 
-把人物设定、服装、鞋袜、包袋、配饰与情绪描述，整理成统一的时尚人物设定板：
-
-- Front 正面
-- Side 90°侧面
-- Back 背面
-- Headshot 情绪近景
-
-默认采用白色极简摄影棚、柔和高调光线、真实皮肤与服装材质，以及 Fashion Lookbook / Character Sheet 排版。
+把人物设定、服装、鞋袜、包袋、配饰与情绪描述，整理成统一的时尚人物设定板：Front 正面 / Side 90°侧面 / Back 背面 / Headshot 情绪近景。
 
 **适合：** 人物三视图、穿搭图鉴、角色设定板、表情图鉴、多套服装批量提示词。
 
@@ -33,25 +26,7 @@
 ### 02｜镜面自拍穿搭情绪 Look Book 生成器
 **Mirror Selfie Lookbook Emotion Board**
 
-把室内全身镜自拍、多套都市穿搭和对应微表情，整理成统一的黑色杂志式 Look Book：
-
-- Front 正面镜自拍
-- Side 侧面镜自拍
-- Back 背面镜自拍
-- Headshot 完整面部情绪大头贴
-
-固定低饱和黑灰室内环境、真实手机摄影、自然身体比例，并严格保持同一成年人物、同一发型、同一服装、同一鞋子、同一手机与同一场景。
-
-### 内置 8 套 Look
-
-1. 黑色吊带迷你裙｜委屈感
-2. 白衬衫＋黑色皮裙｜无辜眼神
-3. 黑色露肩娃娃裙｜期待
-4. 白衬衫＋白色包臀长裙｜放松呼吸感
-5. 灰蓝吊带＋白色迷你裙｜小得意
-6. 咖啡色修身连体短裤｜慢半拍微笑
-7. 裸粉上衣＋白色迷你裙｜欲言又止
-8. 裸粉色 A 字短裙｜偷看镜头
+把室内全身镜自拍、多套都市穿搭和对应微表情，整理成统一的黑色杂志式 Look Book，固定低饱和黑灰室内环境、真实手机摄影与自然身体比例。
 
 **适合：** 都市穿搭 Look Book、镜面自拍参考板、角色衣橱设定、服装档案、情绪大头贴。
 
@@ -62,25 +37,7 @@
 ### 03｜白色摄影棚穿搭情绪预设图鉴
 **White Studio Outfit Emotion Presets**
 
-这是一个固定预设版 Skill，直接内置 8 套白色摄影棚穿搭与对应情绪，统一生成：
-
-- Front 正面
-- Side 90°侧面
-- Back 背面
-- Headshot 情绪近景
-
-人物固定为明确成年的年轻东亚女性，白色极简摄影棚、柔和高调光线、真实服装面料和真实皮肤质感。
-
-### 内置 8 套 Look
-
-1. 白色不规则吊带 + 牛仔短裤｜傲到抬下巴撇嘴
-2. 粉灰格纹衬衫 + 黑色短裤｜喜到咧嘴飞眉
-3. 蓝白条纹衬衫 + 黑色短裙｜委屈到泪崩低头
-4. 灰色针织开衫 + 牛仔短裙｜气到嘴巴变异
-5. 黑色碎花方领长裙｜羞到脸红遮脸
-6. 白色背心 + 米色不规则长裙｜疑到歪头挑眉
-7. 浅粉色吊带蛋糕长裙｜怒到炸发瞪眼
-8. 黑色碎花吊带长裙｜困到眯眼打哈欠
+固定预设版 Skill，内置 8 套白色摄影棚穿搭与对应情绪，统一生成 Front / Side / Back / Headshot 四类人物视图。
 
 **适合：** 固定穿搭批量生图、角色服装档案、表情设定集、Fashion Lookbook、Character Sheet。
 
@@ -91,28 +48,7 @@
 ### 04｜暗黑电影情绪角色设定卡预设
 **Dark Emotion Character Card Presets**
 
-把强情绪表演、固定穿搭、荒诞小道具和电影感摄影，整理成暗黑高级角色设定卡：
-
-- 左侧约 60%：大尺寸半身情绪特写
-- 右侧：Front 正面 / 3/4 View 半侧 / Side 侧面
-- 底部：白色手绘粗线描边 Headshot
-- 左上：大号编号 + 中英文情绪标题
-- 底部：PROP 道具标签
-
-固定黑灰摄影棚、冷灰电影光、低饱和、真实泪水与皮肤纹理、轻微电影颗粒，整体像心理剧情电影人物档案与高级时尚杂志概念页。
-
-### 内置 8 套情绪预设
-
-1. 无声流泪｜Silent Tears｜浅灰褶皱连衣裙｜Water Bottle
-2. 崩溃大哭｜Breakdown｜奶油白针织抹胸裙｜Banana
-3. 咬唇忍哭｜Bite Back Tears｜杏奶油露肩蕾丝裙｜Water Bottle
-4. 怒目而视｜Cold Fury｜奶油白挂脖蕾丝裙｜Banana
-5. 大声争吵｜Loud Argument｜黑缎上衣 + 黑皮短裙｜Water Bottle
-6. 不屑嘲讽｜Mocking Smirk｜黑色 V 领迷你裙｜Banana
-7. 极度委屈｜On the Verge of Tears｜黑色缎面吊带裙｜Water Bottle
-8. 隐忍侧颜｜Restrained Resolve｜黑色蕾丝针织吊带裙｜Banana
-
-其中香蕉 + 银灰胶带只作为荒诞视觉梗 / 概念艺术道具，不作为武器。
+把强情绪表演、固定穿搭、荒诞小道具和电影感摄影整理成暗黑角色设定卡：左侧大尺寸情绪特写，右侧 Front / 3/4 View / Side，底部手绘 Headshot，并附中英文标题与 PROP 标签。
 
 **适合：** 情绪角色档案、电影人物设定卡、暗黑时尚拼版、心理剧情概念海报、Character Sheet。
 
@@ -120,14 +56,37 @@
 
 ---
 
+### 05｜超广角 UI × 真人街头广告视觉预设
+**Ultrawide UI Street Ad Presets**
+
+把人物参考图、街头时装、24–28mm 强制透视与实体化手机 UI 融合，生成超写实 3:4 竖版创意广告摄影。
+
+### 内置 7 套视觉模板
+
+1. 悬浮音乐播放器卡片 + 极近镜头手势
+2. 巨型照片分享 UI + 人物从屏幕里走出来
+3. 三栏分享界面 + 坐姿人物突破照片边框
+4. 胸前实体音乐播放器 + 白色有线耳机
+5. 包袋内部第一人称视角 + 巨型来电 UI
+6. 夸张大头小身体 + 巨手夹头错视
+7. 第一人称脚下地图 UI 实体化
+
+支持 `{{人物参考图}}`、`{{服装}}`、`{{歌曲名}}`、`{{专辑封面}}`、`{{城市}}`、`{{街道}}`、`{{目的地}}` 等变量替换，并强化正确手部结构、真实玻璃厚度、反射、阴影、遮挡和空间层级。
+
+**适合：** 创意街拍、音乐科技广告、手机 UI 视觉、潮流杂志大片、强制透视摄影、超现实商业广告。
+
+➡️ **[打开 Skill 05](./skills/05-ultrawide-ui-street-ad-presets/SKILL.md)**
+
+---
+
 ## 仓库结构
 
 ```text
 .
-├── README.md                       # 语言入口 / Language selector
-├── README.zh-CN.md                # 中文说明
-├── README.en.md                   # English documentation
-├── SKILL.md                       # 原始兼容入口
+├── README.md
+├── README.zh-CN.md
+├── README.en.md
+├── SKILL.md
 └── skills/
     ├── 01-three-view-emotion-outfit-board/
     │   └── SKILL.md
@@ -135,32 +94,19 @@
     │   └── SKILL.md
     ├── 03-white-studio-outfit-emotion-presets/
     │   └── SKILL.md
-    └── 04-dark-emotion-character-card-presets/
+    ├── 04-dark-emotion-character-card-presets/
+    │   └── SKILL.md
+    └── 05-ultrawide-ui-street-ad-presets/
         └── SKILL.md
 ```
 
-后续新增 Skill 继续按编号排列：
-
-```text
-05-skill-name/
-06-skill-name/
-07-skill-name/
-```
+后续继续按 `06 / 07 / 08...` 顺序新增。
 
 ---
 
 ## 使用方法
 
-打开需要的 `SKILL.md`，把完整规则导入支持 Skill / Agent 指令的工作流即可。
-
-每个 Skill 会尽量包含：
-
-- 功能说明
-- 触发意图
-- 执行逻辑
-- 人物与服装一致性规则
-- 输出模板
-- 安全边界
+打开需要的 `SKILL.md`，把完整规则导入支持 Skill / Agent 指令的工作流即可。每个 Skill 会尽量包含功能说明、触发意图、执行逻辑、一致性规则、输出模板与安全边界。
 
 ---
 
