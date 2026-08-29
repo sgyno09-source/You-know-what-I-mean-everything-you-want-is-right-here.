@@ -4,9 +4,32 @@
   <a href="./README.zh-CN.md"><kbd>🇨🇳 中文说明</kbd></a>
   &nbsp;&nbsp;
   <a href="./README.en.md"><kbd>🇺🇸 English</kbd></a>
+  &nbsp;&nbsp;
+  <a href="./docs/SKILL-USAGE.en.md"><kbd>📘 Skill Usage Tutorial</kbd></a>
 </p>
 
 > A growing collection of reusable image-generation, character-design, and visual-workflow Skills.
+
+---
+
+## Start Here
+
+New to the repository? Open the full guide first:
+
+➡️ **[Skill Usage Tutorial](./docs/SKILL-USAGE.en.md)**
+
+It covers:
+
+- what a Skill is
+- how to choose the right Skill
+- how to import `SKILL.md`
+- how to use a character reference image
+- how to replace `{{variables}}`
+- how to call built-in OUTFIT / LOOK presets
+- how to batch multiple Looks
+- ChatGPT-Image / Midjourney / Flux / SDXL adaptation
+- identity drift, outfit drift, hand errors, and text-rendering issues
+- how to add your own presets
 
 ---
 
@@ -38,14 +61,12 @@ Hyper-realistic street-fashion ads combining forced perspective with physicalize
 ➡️ **[Open Skill 05](./skills/05-ultrawide-ui-street-ad-presets/SKILL.md)**
 
 ### 06 | Four-Column Bilingual Fashion Catalog Presets
-A four-column Front / Side / Back / Headshot fashion catalog with bilingual outfit and expression labels.
+Front / Side / Back / Headshot catalog pages with bilingual outfit and expression labels and eight built-in outfits.
 
 ➡️ **[Open Skill 06](./skills/06-four-column-bilingual-fashion-catalog-presets/SKILL.md)**
 
 ### 07 | Bilingual Wedding Lookbook Presets
-A premium white-studio bridal catalog with Front / Side / Back / Headshot panels, bilingual wedding-dress titles, bilingual expression labels, and eight built-in bridal looks.
-
-Built-in presets: Lace Mermaid, Bow Cake, Slit Lace Mermaid, Satin One-Shoulder Mermaid, Butterfly Pattern Ball Gown, Vintage Court, Minimal Striped Tulle, and High-Low Irregular Wedding Dress.
+Premium white-studio bridal catalog pages with bilingual wedding-dress titles, expression labels, and eight built-in bridal Looks.
 
 ➡️ **[Open Skill 07](./skills/07-bilingual-wedding-lookbook-presets/SKILL.md)**
 
@@ -59,6 +80,9 @@ Built-in presets: Lace Mermaid, Bow Cake, Slit Lace Mermaid, Satin One-Shoulder 
 ├── README.zh-CN.md
 ├── README.en.md
 ├── SKILL.md
+├── docs/
+│   ├── SKILL-USAGE.zh-CN.md
+│   └── SKILL-USAGE.en.md
 └── skills/
     ├── 01-three-view-emotion-outfit-board/
     ├── 02-mirror-selfie-lookbook-emotion-board/
@@ -73,5 +97,23 @@ Future Skills continue in numeric order: `08 / 09 / 10...`.
 
 ---
 
-## Usage
-Open the desired `SKILL.md` and import its instructions into a compatible Skill / Agent workflow.
+## Quick Workflow
+
+```text
+1. Choose a Skill
+2. Open and import its SKILL.md
+3. Upload a character reference image if needed
+4. Select a built-in LOOK / OUTFIT or describe a new one
+5. Choose ChatGPT-Image / Midjourney / Flux / SDXL output
+6. Generate one independent prompt per Look
+```
+
+For the complete workflow, see **[Skill Usage Tutorial](./docs/SKILL-USAGE.en.md)**.
+
+---
+
+<p align="center">
+  <a href="./README.zh-CN.md"><kbd>🇨🇳 中文说明</kbd></a>
+  &nbsp;&nbsp;
+  <a href="./docs/SKILL-USAGE.en.md"><kbd>📘 Skill Usage Tutorial</kbd></a>
+</p>
