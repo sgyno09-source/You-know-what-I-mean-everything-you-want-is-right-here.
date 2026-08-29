@@ -4,9 +4,32 @@
   <a href="./README.zh-CN.md"><kbd>🇨🇳 中文说明</kbd></a>
   &nbsp;&nbsp;
   <a href="./README.en.md"><kbd>🇺🇸 English</kbd></a>
+  &nbsp;&nbsp;
+  <a href="./docs/SKILL-USAGE.zh-CN.md"><kbd>📘 Skill 使用教程</kbd></a>
 </p>
 
 > 一个持续整理的图像生成、人物设定与视觉工作流 Skill 仓库。
+
+---
+
+## 新手先看
+
+第一次使用建议直接打开：
+
+➡️ **[Skill 使用说明教程](./docs/SKILL-USAGE.zh-CN.md)**
+
+教程包含：
+
+- Skill 是什么
+- 怎么选择对应 Skill
+- 怎么导入 `SKILL.md`
+- 怎么使用人物参考图
+- 怎么替换 `{{变量}}`
+- 怎么调用内置 OUTFIT / LOOK
+- 怎么一次批量生成多套
+- ChatGPT-Image / Midjourney / Flux / SDXL 怎么适配
+- 人物漂移、服装漂移、手部错误、文字乱码怎么处理
+- 怎么继续新增自己的预设
 
 ---
 
@@ -15,101 +38,49 @@
 ### 01｜三视图情绪穿搭图鉴生成器
 **Three-View Emotion Outfit Board Generator**
 
-把人物设定、服装、鞋袜、包袋、配饰与情绪描述，整理成统一的时尚人物设定板：Front 正面 / Side 90°侧面 / Back 背面 / Headshot 情绪近景。
-
-**适合：** 人物三视图、穿搭图鉴、角色设定板、表情图鉴、多套服装批量提示词。
+把人物设定、服装、鞋袜、包袋、配饰与情绪描述整理成 Front / Side / Back / Headshot 时尚人物设定板。
 
 ➡️ **[打开 Skill 01](./skills/01-three-view-emotion-outfit-board/SKILL.md)**
-
----
 
 ### 02｜镜面自拍穿搭情绪 Look Book 生成器
 **Mirror Selfie Lookbook Emotion Board**
 
-把室内全身镜自拍、多套都市穿搭和对应微表情，整理成统一的黑色杂志式 Look Book，固定低饱和黑灰室内环境、真实手机摄影与自然身体比例。
-
-**适合：** 都市穿搭 Look Book、镜面自拍参考板、角色衣橱设定、服装档案、情绪大头贴。
+黑灰室内镜面自拍 Look Book，固定同一人物、同一环境、同一服装与对应情绪大头贴。
 
 ➡️ **[打开 Skill 02](./skills/02-mirror-selfie-lookbook-emotion-board/SKILL.md)**
-
----
 
 ### 03｜白色摄影棚穿搭情绪预设图鉴
 **White Studio Outfit Emotion Presets**
 
-固定预设版 Skill，内置 8 套白色摄影棚穿搭与对应情绪，统一生成 Front / Side / Back / Headshot 四类人物视图。
-
-**适合：** 固定穿搭批量生图、角色服装档案、表情设定集、Fashion Lookbook、Character Sheet。
+内置 8 套白色摄影棚穿搭和情绪预设，统一生成 Front / Side / Back / Headshot。
 
 ➡️ **[打开 Skill 03](./skills/03-white-studio-outfit-emotion-presets/SKILL.md)**
-
----
 
 ### 04｜暗黑电影情绪角色设定卡预设
 **Dark Emotion Character Card Presets**
 
-把强情绪表演、固定穿搭、荒诞小道具和电影感摄影整理成暗黑角色设定卡：左侧大尺寸情绪特写，右侧 Front / 3/4 View / Side，底部手绘 Headshot，并附中英文标题与 PROP 标签。
-
-**适合：** 情绪角色档案、电影人物设定卡、暗黑时尚拼版、心理剧情概念海报、Character Sheet。
+暗黑电影角色档案：大尺寸情绪特写 + Front / 3/4 View / Side + 手绘 Headshot + PROP 标签。
 
 ➡️ **[打开 Skill 04](./skills/04-dark-emotion-character-card-presets/SKILL.md)**
-
----
 
 ### 05｜超广角 UI × 真人街头广告视觉预设
 **Ultrawide UI Street Ad Presets**
 
-把人物参考图、街头时装、24–28mm 强制透视与实体化手机 UI 融合，生成超写实 3:4 竖版创意广告摄影。
-
-**适合：** 创意街拍、音乐科技广告、手机 UI 视觉、潮流杂志大片、强制透视摄影、超现实商业广告。
+24–28mm 强制透视、真人街拍与实体化手机 UI / 音乐卡片 / 地图 / 分享界面融合。
 
 ➡️ **[打开 Skill 05](./skills/05-ultrawide-ui-street-ad-presets/SKILL.md)**
-
----
 
 ### 06｜四栏中英双语时装图鉴预设
 **Four-Column Bilingual Fashion Catalog Presets**
 
-固定浅米白影棚背景与四栏时装图鉴结构：正面 Front / 侧面 Side / 背面 Back / 大头贴 Headshot。顶部显示 `OUTFIT X · 中文名 / English Name`，标题下显示中英双语表情副标题，底部四栏继续使用中英双语标签。
-
-### 内置 8 套 OUTFIT
-
-1. 棕色抹胸 + 毛绒披肩套装｜坏笑得意
-2. 奶油白荷叶边两件套｜仰头发呆
-3. 奶油白细肩带修身短裙｜捧脸无辜
-4. 裸咖色不对称修身短裙｜嫌弃憋屈
-5. 黑色挂脖修身短裙｜侧目偷看
-6. 姜黄色长袖超短连衣裙｜咬指思考
-7. 紫色斜肩挂脖包臀裙｜托腮撒娇
-8. 黑色抹胸连体短裤｜冷静直视
-
-固定同一位明确成年的年轻亚洲女性，保持人物身份、发型、服装结构、鞋履、包袋与配饰在四栏中完全一致，并强化清晰双语排版、真实皮肤与服装材质。
-
-**适合：** 时装 Lookbook、服装商品详情页、人物衣橱档案、四视图穿搭展示、双语 Fashion Catalog。
+浅米白影棚，固定 Front / Side / Back / Headshot 四栏，中英双语服装标题、表情副标题和底部标签，内置 8 套 OUTFIT。
 
 ➡️ **[打开 Skill 06](./skills/06-four-column-bilingual-fashion-catalog-presets/SKILL.md)**
-
----
 
 ### 07｜中英双语婚纱四宫格图鉴预设
 **Bilingual Wedding Lookbook Presets**
 
-固定纯白极简影棚背景与四宫格婚纱图鉴结构：正面 Front / 侧面 Side / 背面 Back / 大头贴 Headshot。顶部使用婚纱编号 + 中文名 + English Name，表情使用中英双语标签，并重点强化蕾丝、薄纱、缎面、刺绣、珠饰、蝴蝶结、拖尾和头纱等婚纱细节。
-
-### 内置 8 套婚纱
-
-1. 蕾丝鱼尾婚纱｜自然微笑
-2. 蝴蝶结蛋糕婚纱｜俏皮眨眼
-3. 开衩蕾丝鱼尾婚纱｜灿烂大笑
-4. 缎面单肩鱼尾婚纱｜坏笑／邪笑
-5. 蝴蝶花纹蓬裙婚纱｜天真无邪
-6. 复古宫廷婚纱｜暗爽得意
-7. 极简条纹纱裙婚纱｜宠溺笑
-8. 不规则短前长后婚纱｜羞涩低头
-
-固定同一位明确成年的年轻亚洲女性，可爱、略带混血感，长发大波浪，保持人物、婚纱、头纱、拖尾、手套、皇冠、鞋履与配饰在四宫格中完全一致。
-
-**适合：** 婚纱 Lookbook、Bridal Catalog、婚纱产品详情页、婚纱造型档案、四视图新娘服装展示。
+纯白影棚婚纱 Lookbook，固定 Front / Side / Back / Headshot 四宫格，中英婚纱标题与表情标签，内置 8 套婚纱。
 
 ➡️ **[打开 Skill 07](./skills/07-bilingual-wedding-lookbook-presets/SKILL.md)**
 
@@ -123,37 +94,40 @@
 ├── README.zh-CN.md
 ├── README.en.md
 ├── SKILL.md
+├── docs/
+│   ├── SKILL-USAGE.zh-CN.md
+│   └── SKILL-USAGE.en.md
 └── skills/
     ├── 01-three-view-emotion-outfit-board/
-    │   └── SKILL.md
     ├── 02-mirror-selfie-lookbook-emotion-board/
-    │   └── SKILL.md
     ├── 03-white-studio-outfit-emotion-presets/
-    │   └── SKILL.md
     ├── 04-dark-emotion-character-card-presets/
-    │   └── SKILL.md
     ├── 05-ultrawide-ui-street-ad-presets/
-    │   └── SKILL.md
     ├── 06-four-column-bilingual-fashion-catalog-presets/
-    │   └── SKILL.md
     └── 07-bilingual-wedding-lookbook-presets/
-        └── SKILL.md
 ```
 
 后续继续按 `08 / 09 / 10...` 顺序新增。
 
 ---
 
-## 使用方法
+## 最简单的使用方式
 
-打开需要的 `SKILL.md`，把完整规则导入支持 Skill / Agent 指令的工作流即可。每个 Skill 会尽量包含功能说明、触发意图、执行逻辑、一致性规则、输出模板与安全边界。
+```text
+1. 选择一个 Skill
+2. 打开并导入对应 SKILL.md
+3. 上传人物参考图（可选）
+4. 告诉模型要使用哪个 LOOK / OUTFIT，或提供新的服装与表情
+5. 指定输出 ChatGPT-Image / Midjourney / Flux / SDXL 版本
+6. 每套 Look 独立输出
+```
+
+完整操作请看：**[Skill 使用说明教程](./docs/SKILL-USAGE.zh-CN.md)**
 
 ---
 
-## 语言切换
-
 <p align="center">
-  <a href="./README.zh-CN.md"><kbd>🇨🇳 中文说明</kbd></a>
-  &nbsp;&nbsp;
   <a href="./README.en.md"><kbd>🇺🇸 English</kbd></a>
+  &nbsp;&nbsp;
+  <a href="./docs/SKILL-USAGE.zh-CN.md"><kbd>📘 Skill 使用教程</kbd></a>
 </p>
