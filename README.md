@@ -1,162 +1,192 @@
-# Three-View Emotion Outfit Board Generator
-# 三视图情绪穿搭图鉴生成器
+# You Know What I Mean — Skill Collection
+# 你知道我意思的 — Skill 合集
 
-[中文](#中文说明) | [English](#english)
+[中文](#中文) | [English](#english)
 
-> Turn character, outfit and emotion descriptions into consistent three-view fashion boards with matching facial-expression close-ups.
+> A growing collection of reusable image-generation and visual-workflow Skills.
 >
-> 将人物设定、穿搭描述与情绪表情自动整理成统一的三视图穿搭图鉴与对应面部近景提示词。
+> 一个持续整理的图像生成、人物设定与视觉工作流 Skill 仓库。
 
-## 中文说明
+---
 
-### 这是什么？
+## 中文
 
-这是一个面向图像生成工作流的提示词 Skill。
+### Skill 索引
 
-你只需要提供：
+#### 01｜三视图情绪穿搭图鉴生成器
+**Three-View Emotion Outfit Board Generator**
 
-- 统一人物设定
-- 每套穿搭描述
-- 鞋袜、包袋、配饰
-- 对应情绪 / 表情
+把人物设定、服装、鞋袜、包袋、配饰与情绪描述，整理为统一的：
 
-Skill 会自动整理为可以直接用于生图的完整提示词。
+- Front 正面
+- Side 90°侧面
+- Back 背面
+- Headshot 情绪近景
 
-### 默认画面结构
+默认采用白色极简摄影棚、柔和高调光线与 Fashion Lookbook / Character Sheet 排版。
 
-- 上半部分：全身正面、90°侧面、背面三视图
-- 下半部分：对应情绪的面部近景
-- 白色极简摄影棚背景
-- 柔和均匀高调光线
-- 真实服装面料与皮肤纹理
-- Fashion Lookbook / Character Sheet 图鉴排版
+**适合：**
+人物三视图、穿搭图鉴、角色设定板、表情图鉴、多套服装批量提示词。
 
-### 适合用来做
+➡️ **[打开 Skill 01](./skills/01-three-view-emotion-outfit-board/SKILL.md)**
 
-- 穿搭图鉴
-- 人物三视图
-- 情绪表情图鉴
-- Character Sheet
-- Fashion Lookbook
-- 多套穿搭批量提示词
+---
+
+#### 02｜镜面自拍穿搭情绪 Look Book 生成器
+**Mirror Selfie Lookbook Emotion Board**
+
+把室内全身镜自拍、多套都市穿搭和对应微表情，整理为统一的黑色杂志式 Look Book：
+
+- Front 正面镜自拍
+- Side 侧面镜自拍
+- Back 背面镜自拍
+- Headshot 完整面部情绪大头贴
+
+固定低饱和黑灰室内环境、真实手机摄影、自然身体比例，并严格保持同一人物、同一发型、同一服装、同一鞋子与同一场景。
+
+内置 8 套 Look：
+
+1. 黑色吊带迷你裙｜委屈感
+2. 白衬衫＋黑色皮裙｜无辜眼神
+3. 黑色露肩娃娃裙｜期待
+4. 白衬衫＋白色包臀长裙｜放松呼吸感
+5. 灰蓝吊带＋白色迷你裙｜小得意
+6. 咖啡色修身连体短裤｜慢半拍微笑
+7. 裸粉上衣＋白色迷你裙｜欲言又止
+8. 裸粉色 A 字短裙｜偷看镜头
+
+**适合：**
+都市穿搭 Look Book、镜面自拍参考板、角色衣橱设定、服装档案、情绪大头贴。
+
+➡️ **[打开 Skill 02](./skills/02-mirror-selfie-lookbook-emotion-board/SKILL.md)**
+
+---
+
+### 仓库结构
+
+```text
+.
+├── README.md
+├── SKILL.md                         # Legacy / 原始兼容入口
+└── skills/
+    ├── 01-three-view-emotion-outfit-board/
+    │   └── SKILL.md
+    └── 02-mirror-selfie-lookbook-emotion-board/
+        └── SKILL.md
+```
+
+后续新增 Skill 建议继续按：
+
+```text
+03-skill-name/
+04-skill-name/
+05-skill-name/
+```
+
+依次排列，方便长期扩展。
 
 ### 使用方法
 
-直接把人物设定、穿搭和表情发给支持 Skill 的 Agent / 模型，例如：
+打开对应 Skill 的 `SKILL.md`，将完整规则导入支持 Skill / Agent 指令的工作流即可。
 
-```text
-统一基础设定：
-年轻成年东亚女性，黑棕色长卷发，白色摄影棚背景，真实摄影质感。
+每个 Skill 都包含：
 
-1｜白色吊带 + 牛仔短裤｜傲到抬下巴撇嘴
-【服装描述】
-【表情描述】
-
-2｜蓝白条纹衬衫 + 黑色短裙｜委屈到泪崩低头
-【服装描述】
-【表情描述】
-```
-
-Skill 会把每套穿搭拆开，并生成独立的“三视图 + 情绪近景”提示词。
-
-### 支持的输出方式
-
-- 中文完整版
-- English Prompt
-- ChatGPT-Image
-- Midjourney
-- Flux / SDXL
-- 批量生成版
-- JSON 结构化版
-- 精简省 Token 版
-
-### Skill 文件
-
-完整规则、触发条件、执行逻辑和输出模板都在：
-
-**[SKILL.md](./SKILL.md)**
+- 功能说明
+- 触发意图
+- 执行逻辑
+- 一致性规则
+- 输出模板
+- 中英文说明
+- 安全边界
 
 ---
 
 ## English
 
-### What is this?
+### Skill Index
 
-This repository contains an image-generation prompt Skill that converts character, outfit, accessory, and emotion descriptions into structured fashion-board prompts.
+#### 01 | Three-View Emotion Outfit Board Generator
 
-You provide:
+Turns character, outfit, footwear, bag, accessory, and emotion descriptions into a consistent fashion reference board with:
 
-- a shared character setup
-- outfit descriptions
-- shoes, socks, bags, and accessories
-- matching emotions / facial expressions
+- Front view
+- 90° Side view
+- Back view
+- Matching emotional Headshot
 
-The Skill converts them into complete prompts that can be used directly with image-generation models.
+The default visual setup uses a minimal white studio, soft high-key lighting, realistic fabric and skin texture, and a Fashion Lookbook / Character Sheet layout.
 
-### Default Composition
+**Best for:** character turnarounds, outfit boards, emotion boards, fashion reference sheets, and batch prompt generation.
 
-- Top section: full-body front view, 90° side view, and back view
-- Bottom section: matching facial-expression close-up
-- Minimal white studio background
-- Soft, even high-key lighting
-- Realistic fabric and skin texture
-- Fashion Lookbook / Character Sheet layout
-
-### Good for
-
-- outfit boards
-- character turnarounds
-- emotion boards
-- character sheets
-- fashion lookbooks
-- batch prompt generation
-
-### Usage
-
-Provide a character setup followed by one or more outfit/emotion pairs:
-
-```text
-Shared character setup:
-Young adult East Asian woman, long dark-brown wavy hair, white studio background, realistic photography.
-
-1 | White camisole + denim shorts | Chin-up smug expression
-[Outfit description]
-[Expression description]
-
-2 | Blue striped shirt + black skirt | Tearful expression
-[Outfit description]
-[Expression description]
-```
-
-The Skill separates each outfit and generates one complete three-view + emotion-close-up prompt for each look.
-
-### Output Modes
-
-- Chinese full prompt
-- English prompt
-- ChatGPT-Image
-- Midjourney
-- Flux / SDXL
-- batch generation
-- structured JSON
-- compact token-saving format
-
-### Skill File
-
-See the full trigger rules, workflow, consistency rules, safety boundaries, and output templates here:
-
-**[SKILL.md](./SKILL.md)**
+➡️ **[Open Skill 01](./skills/01-three-view-emotion-outfit-board/SKILL.md)**
 
 ---
 
-## Repository Structure
+#### 02 | Mirror Selfie Lookbook Emotion Board
+
+Turns indoor full-length mirror selfies, multiple urban outfits, and matching micro-expressions into a consistent black editorial Look Book with:
+
+- Front mirror selfie
+- Side mirror selfie
+- Back mirror selfie
+- Full-face emotional Headshot
+
+It locks the same adult character identity, hairstyle, outfit, footwear, black smartphone, environment, lighting, and natural body proportions across all views.
+
+Built-in preset looks:
+
+1. Black camisole mini dress — vulnerable / hurt expression
+2. White shirt + black leather mini skirt — innocent gaze
+3. Black off-shoulder babydoll dress — anticipation
+4. White shirt + cream pencil midi skirt — relaxed breathing
+5. Gray-blue camisole + white mini skirt — subtle smug satisfaction
+6. Coffee-brown fitted romper — delayed soft smile
+7. Nude-pink top + white mini skirt — hesitant, about to speak
+8. Nude-pink A-line mini dress — playful glance back
+
+**Best for:** urban fashion Look Books, mirror-selfie reference boards, wardrobe character sheets, fashion archives, and expression studies.
+
+➡️ **[Open Skill 02](./skills/02-mirror-selfie-lookbook-emotion-board/SKILL.md)**
+
+---
+
+### Repository Structure
 
 ```text
 .
-├── README.md   # Bilingual introduction / 中英文说明
-└── SKILL.md    # Complete Skill definition / 完整 Skill 定义
+├── README.md
+├── SKILL.md                         # Legacy compatibility entry
+└── skills/
+    ├── 01-three-view-emotion-outfit-board/
+    │   └── SKILL.md
+    └── 02-mirror-selfie-lookbook-emotion-board/
+        └── SKILL.md
 ```
 
-## License
+Future Skills can continue in numeric order:
 
-No license has been added yet. If you plan to share or redistribute this Skill, consider adding a license such as MIT.
+```text
+03-skill-name/
+04-skill-name/
+05-skill-name/
+```
+
+### Usage
+
+Open the desired `SKILL.md` and import its complete instructions into a compatible Skill / Agent workflow.
+
+Each Skill includes:
+
+- purpose
+- trigger intent
+- workflow
+- consistency rules
+- output templates
+- bilingual documentation
+- safety boundaries
+
+---
+
+## Notes
+
+The root `SKILL.md` is preserved as a legacy compatibility entry. New Skills are organized under `/skills/` in numeric order.
