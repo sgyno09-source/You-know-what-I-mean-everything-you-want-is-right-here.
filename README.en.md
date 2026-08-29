@@ -13,69 +13,41 @@
 ## Skill Index
 
 ### 01 | Three-View Emotion Outfit Board Generator
-Turns character, outfit, footwear, bag, accessory, and emotion descriptions into a consistent Front / 90° Side / Back / Headshot fashion board.
-
-**Best for:** character turnarounds, outfit boards, emotion sheets, fashion references, and batch prompt generation.
+Front / Side / Back / Headshot fashion reference boards.
 
 ➡️ **[Open Skill 01](./skills/01-three-view-emotion-outfit-board/SKILL.md)**
 
----
-
 ### 02 | Mirror Selfie Lookbook Emotion Board
-Creates a black editorial mirror-selfie Look Book with consistent identity, environment, outfit, footwear, and emotional Headshots.
-
-**Best for:** urban fashion Look Books, mirror-selfie references, wardrobe character sheets, and expression studies.
+Editorial mirror-selfie Look Books with matching expression close-ups.
 
 ➡️ **[Open Skill 02](./skills/02-mirror-selfie-lookbook-emotion-board/SKILL.md)**
 
----
-
 ### 03 | White Studio Outfit Emotion Presets
-A fixed-preset Skill with eight built-in white-studio outfits and matching emotions, generating Front / Side / Back / Headshot views.
-
-**Best for:** batch outfit generation, wardrobe archives, expression sheets, Fashion Lookbooks, and Character Sheets.
+Eight fixed white-studio outfit and expression presets.
 
 ➡️ **[Open Skill 03](./skills/03-white-studio-outfit-emotion-presets/SKILL.md)**
 
----
-
 ### 04 | Dark Emotion Character Card Presets
-Creates dark cinematic character dossiers with a dominant emotional portrait, Front / 3/4 / Side views, a hand-drawn Headshot, bilingual titles, and PROP labels.
-
-**Best for:** cinematic character dossiers, dark fashion boards, emotional acting references, and psychological-drama concept posters.
+Dark cinematic character cards with emotion portraits, multi-view poses, Headshots, and prop labels.
 
 ➡️ **[Open Skill 04](./skills/04-dark-emotion-character-card-presets/SKILL.md)**
 
----
-
 ### 05 | Ultrawide UI Street Ad Presets
-Combines a consistent reference person, street fashion, 24–28mm forced perspective, and physicalized mobile UI into hyper-realistic 3:4 vertical commercial photography.
-
-**Best for:** creative street photography, music-tech ads, mobile UI visuals, fashion editorials, forced-perspective photography, and surreal commercial campaigns.
+Hyper-realistic street-fashion ads combining forced perspective with physicalized mobile UI.
 
 ➡️ **[Open Skill 05](./skills/05-ultrawide-ui-street-ad-presets/SKILL.md)**
 
----
-
 ### 06 | Four-Column Bilingual Fashion Catalog Presets
-Creates a clean premium fashion catalog on a light cream-beige studio background using a fixed four-column layout: Front / Side / Back / Headshot. The top displays `OUTFIT X · Chinese Name / English Name`, followed by a bilingual expression subtitle, with bilingual labels beneath all four columns.
-
-### Built-in 8 Outfits
-
-1. Brown Bandeau and Faux-Fur Shawl Set — Smug Mischievous Smirk
-2. Cream White Ruffled Two-Piece Set — Upward Blank Stare
-3. Cream White Spaghetti-Strap Bodycon Mini Dress — Innocent Face-Cupping
-4. Nude Taupe Asymmetric Bodycon Mini Dress — Annoyed and Aggrieved
-5. Black Halter Bodycon Mini Dress — Side Glance Peek
-6. Mustard Yellow Long-Sleeve Mini Dress — Finger-to-Lip Thinking Pose
-7. Purple One-Shoulder Halter Bodycon Dress — Cheek-Resting Cutesy Pose
-8. Black Strapless Romper — Calm Direct Gaze
-
-The Skill keeps the same clearly adult young Asian woman, hairstyle, outfit construction, footwear, bags, and accessories consistent across all four columns while emphasizing realistic skin, fabric rendering, clean bilingual typography, and balanced catalog spacing.
-
-**Best for:** Fashion Lookbooks, product-detail pages, wardrobe archives, four-view outfit presentation, and bilingual fashion catalogs.
+A four-column Front / Side / Back / Headshot fashion catalog with bilingual outfit and expression labels.
 
 ➡️ **[Open Skill 06](./skills/06-four-column-bilingual-fashion-catalog-presets/SKILL.md)**
+
+### 07 | Bilingual Wedding Lookbook Presets
+A premium white-studio bridal catalog with Front / Side / Back / Headshot panels, bilingual wedding-dress titles, bilingual expression labels, and eight built-in bridal looks.
+
+Built-in presets: Lace Mermaid, Bow Cake, Slit Lace Mermaid, Satin One-Shoulder Mermaid, Butterfly Pattern Ball Gown, Vintage Court, Minimal Striped Tulle, and High-Low Irregular Wedding Dress.
+
+➡️ **[Open Skill 07](./skills/07-bilingual-wedding-lookbook-presets/SKILL.md)**
 
 ---
 
@@ -89,32 +61,17 @@ The Skill keeps the same clearly adult young Asian woman, hairstyle, outfit cons
 ├── SKILL.md
 └── skills/
     ├── 01-three-view-emotion-outfit-board/
-    │   └── SKILL.md
     ├── 02-mirror-selfie-lookbook-emotion-board/
-    │   └── SKILL.md
     ├── 03-white-studio-outfit-emotion-presets/
-    │   └── SKILL.md
     ├── 04-dark-emotion-character-card-presets/
-    │   └── SKILL.md
     ├── 05-ultrawide-ui-street-ad-presets/
-    │   └── SKILL.md
-    └── 06-four-column-bilingual-fashion-catalog-presets/
-        └── SKILL.md
+    ├── 06-four-column-bilingual-fashion-catalog-presets/
+    └── 07-bilingual-wedding-lookbook-presets/
 ```
 
-Future Skills can continue in numeric order: `07 / 08 / 09...`.
+Future Skills continue in numeric order: `08 / 09 / 10...`.
 
 ---
 
 ## Usage
-Open the desired `SKILL.md` and import its full instructions into a compatible Skill / Agent workflow. Each Skill is designed to include purpose, trigger intent, execution workflow, consistency rules, output templates, and safety boundaries.
-
----
-
-## Language
-
-<p align="center">
-  <a href="./README.zh-CN.md"><kbd>🇨🇳 中文说明</kbd></a>
-  &nbsp;&nbsp;
-  <a href="./README.en.md"><kbd>🇺🇸 English</kbd></a>
-</p>
+Open the desired `SKILL.md` and import its instructions into a compatible Skill / Agent workflow.
