@@ -68,6 +68,11 @@ A growing collection of reusable image-generation and visual-workflow Skills.<br
 
 [Open Skill 07 / 打开 Skill 07](./skills/07-bilingual-wedding-lookbook-presets/SKILL.md)
 
+### 08 — Three-View + Nine-Emotion Character Sheet
+**三视图 + 九组情绪动作人物设定参考图**
+
+[Open Skill 08 / 打开 Skill 08](./skills/08-three-view-nine-emotion-character-sheet/SKILL.md)
+
 ---
 
 ## Tutorials / 教程
