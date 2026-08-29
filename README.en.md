@@ -68,11 +68,14 @@ Premium white-studio bridal catalog pages with bilingual wedding-dress titles, e
 ### 08 | Three-View + Nine-Emotion Character Sheet
 A clean photorealistic Character Sheet with full-body Front / Side / Back views on top and nine distinct half-body emotion-action references below.
 
-Built-in emotions: Disdainful Contempt, Helpless Exasperation, Secretly Pleased, Sweet Affectionate Gaze, Sulking, Hurt Pout, Creeped Out, Guilty Avoidance, and Gritted-Teeth Anger.
-
-The Skill emphasizes exact identity consistency, one outfit across all panels, varied gaze direction, non-repeating gestures, natural hand anatomy, and realistic facial acting.
-
 ➡️ **[Open Skill 08](./skills/08-three-view-nine-emotion-character-sheet/SKILL.md)**
+
+### 09 | Blue & White Romantic Resort Outfit Presets
+A clean white-studio full-body fashion Lookbook with eight built-in romantic resort outfits centered on blue-and-white palettes, lace, tulle, knitwear, florals, straw hats, woven bags, and pearl accessories.
+
+Built-in Looks: Blue & White Lace Resort Dress, Cream Blue Knit & Denim Shorts, Royal Blue Bubble Mini Skirt Look, Sheer Organza Shirt & Floral Skirt, Blue & White Lace Tiered Mini Skirt Look, Light Blue Floral Princess Look, Blue & White Porcelain Floral Resort Look, and Blue Gingham Tiered Maxi Dress.
+
+➡️ **[Open Skill 09](./skills/09-blue-white-romantic-resort-outfit-presets/SKILL.md)**
 
 ---
 
@@ -97,10 +100,11 @@ The Skill emphasizes exact identity consistency, one outfit across all panels, v
     ├── 05-ultrawide-ui-street-ad-presets/
     ├── 06-four-column-bilingual-fashion-catalog-presets/
     ├── 07-bilingual-wedding-lookbook-presets/
-    └── 08-three-view-nine-emotion-character-sheet/
+    ├── 08-three-view-nine-emotion-character-sheet/
+    └── 09-blue-white-romantic-resort-outfit-presets/
 ```
 
-Future Skills continue in numeric order: `09 / 10 / 11...`.
+Future Skills continue in numeric order: `10 / 11 / 12...`.
 
 ---
 
