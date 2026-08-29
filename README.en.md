@@ -85,6 +85,37 @@ The default character is a clearly adult young East Asian woman in a minimal whi
 
 ---
 
+### 04 | Dark Emotion Character Card Presets
+
+Turns intense emotional acting, fixed fashion looks, visual props, and cinematic photography into a dark editorial character dossier with:
+
+- Left 55–65%: dominant emotional half-body portrait
+- Right: Front / 3/4 View / Side full-body views
+- Bottom: rough white hand-drawn Headshot
+- Top-left: large Look number + bilingual emotion title
+- Bottom: PROP label
+
+The default visual direction uses a black / charcoal studio, cold-gray cinematic lighting, low saturation, realistic tears and skin texture, subtle film grain, and a psychological-drama fashion editorial look.
+
+### Built-in 8 Emotion Presets
+
+1. Silent Tears — gray ruched mini dress — Water Bottle
+2. Breakdown — cream strapless knit mini dress — Banana
+3. Bite Back Tears — cream off-shoulder lace mini dress — Water Bottle
+4. Cold Fury — cream halter lace mini dress — Banana
+5. Loud Argument — black satin top + black leather mini skirt — Water Bottle
+6. Mocking Smirk — black V-neck mini dress — Banana
+7. On the Verge of Tears — black satin camisole mini dress — Water Bottle
+8. Restrained Resolve — black lace knit mini dress — Banana
+
+The taped banana is treated only as an absurd visual gag / conceptual-art prop, never as a weapon.
+
+**Best for:** cinematic character dossiers, dark fashion boards, emotional acting references, psychological-drama concept posters, and Character Sheets.
+
+➡️ **[Open Skill 04](./skills/04-dark-emotion-character-card-presets/SKILL.md)**
+
+---
+
 ## Repository Structure
 
 ```text
@@ -98,16 +129,18 @@ The default character is a clearly adult young East Asian woman in a minimal whi
     │   └── SKILL.md
     ├── 02-mirror-selfie-lookbook-emotion-board/
     │   └── SKILL.md
-    └── 03-white-studio-outfit-emotion-presets/
+    ├── 03-white-studio-outfit-emotion-presets/
+    │   └── SKILL.md
+    └── 04-dark-emotion-character-card-presets/
         └── SKILL.md
 ```
 
 Future Skills can continue in numeric order:
 
 ```text
-04-skill-name/
 05-skill-name/
 06-skill-name/
+07-skill-name/
 ```
 
 ---
