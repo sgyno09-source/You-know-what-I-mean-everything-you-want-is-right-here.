@@ -59,6 +59,35 @@
 
 ---
 
+### 03｜白色摄影棚穿搭情绪预设图鉴
+**White Studio Outfit Emotion Presets**
+
+这是一个固定预设版 Skill，直接内置 8 套白色摄影棚穿搭与对应情绪，统一生成：
+
+- Front 正面
+- Side 90°侧面
+- Back 背面
+- Headshot 情绪近景
+
+人物固定为明确成年的年轻东亚女性，白色极简摄影棚、柔和高调光线、真实服装面料和真实皮肤质感。
+
+### 内置 8 套 Look
+
+1. 白色不规则吊带 + 牛仔短裤｜傲到抬下巴撇嘴
+2. 粉灰格纹衬衫 + 黑色短裤｜喜到咧嘴飞眉
+3. 蓝白条纹衬衫 + 黑色短裙｜委屈到泪崩低头
+4. 灰色针织开衫 + 牛仔短裙｜气到嘴巴变异
+5. 黑色碎花方领长裙｜羞到脸红遮脸
+6. 白色背心 + 米色不规则长裙｜疑到歪头挑眉
+7. 浅粉色吊带蛋糕长裙｜怒到炸发瞪眼
+8. 黑色碎花吊带长裙｜困到眯眼打哈欠
+
+**适合：** 固定穿搭批量生图、角色服装档案、表情设定集、Fashion Lookbook、Character Sheet。
+
+➡️ **[打开 Skill 03](./skills/03-white-studio-outfit-emotion-presets/SKILL.md)**
+
+---
+
 ## 仓库结构
 
 ```text
@@ -70,16 +99,18 @@
 └── skills/
     ├── 01-three-view-emotion-outfit-board/
     │   └── SKILL.md
-    └── 02-mirror-selfie-lookbook-emotion-board/
+    ├── 02-mirror-selfie-lookbook-emotion-board/
+    │   └── SKILL.md
+    └── 03-white-studio-outfit-emotion-presets/
         └── SKILL.md
 ```
 
 后续新增 Skill 继续按编号排列：
 
 ```text
-03-skill-name/
 04-skill-name/
 05-skill-name/
+06-skill-name/
 ```
 
 ---
