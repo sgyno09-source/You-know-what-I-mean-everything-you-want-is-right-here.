@@ -91,6 +91,30 @@
 
 ---
 
+### 07｜中英双语婚纱四宫格图鉴预设
+**Bilingual Wedding Lookbook Presets**
+
+固定纯白极简影棚背景与四宫格婚纱图鉴结构：正面 Front / 侧面 Side / 背面 Back / 大头贴 Headshot。顶部使用婚纱编号 + 中文名 + English Name，表情使用中英双语标签，并重点强化蕾丝、薄纱、缎面、刺绣、珠饰、蝴蝶结、拖尾和头纱等婚纱细节。
+
+### 内置 8 套婚纱
+
+1. 蕾丝鱼尾婚纱｜自然微笑
+2. 蝴蝶结蛋糕婚纱｜俏皮眨眼
+3. 开衩蕾丝鱼尾婚纱｜灿烂大笑
+4. 缎面单肩鱼尾婚纱｜坏笑／邪笑
+5. 蝴蝶花纹蓬裙婚纱｜天真无邪
+6. 复古宫廷婚纱｜暗爽得意
+7. 极简条纹纱裙婚纱｜宠溺笑
+8. 不规则短前长后婚纱｜羞涩低头
+
+固定同一位明确成年的年轻亚洲女性，可爱、略带混血感，长发大波浪，保持人物、婚纱、头纱、拖尾、手套、皇冠、鞋履与配饰在四宫格中完全一致。
+
+**适合：** 婚纱 Lookbook、Bridal Catalog、婚纱产品详情页、婚纱造型档案、四视图新娘服装展示。
+
+➡️ **[打开 Skill 07](./skills/07-bilingual-wedding-lookbook-presets/SKILL.md)**
+
+---
+
 ## 仓库结构
 
 ```text
@@ -110,11 +134,13 @@
     │   └── SKILL.md
     ├── 05-ultrawide-ui-street-ad-presets/
     │   └── SKILL.md
-    └── 06-four-column-bilingual-fashion-catalog-presets/
+    ├── 06-four-column-bilingual-fashion-catalog-presets/
+    │   └── SKILL.md
+    └── 07-bilingual-wedding-lookbook-presets/
         └── SKILL.md
 ```
 
-后续继续按 `07 / 08 / 09...` 顺序新增。
+后续继续按 `08 / 09 / 10...` 顺序新增。
 
 ---
 
