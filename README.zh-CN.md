@@ -26,21 +26,6 @@
 
 ➡️ **[版权、肖像权与人物参考图使用提醒](./docs/RIGHTS-SAFETY.zh-CN.md)**
 
-尤其当你要使用真人参考图、明星 / 网红形象、专辑封面、品牌 Logo、真实 UI，或者准备商用时。
-
-教程包含：
-
-- Skill 是什么
-- 怎么选择对应 Skill
-- 怎么导入 `SKILL.md`
-- 怎么使用人物参考图
-- 怎么替换 `{{变量}}`
-- 怎么调用内置 OUTFIT / LOOK
-- 怎么一次批量生成多套
-- ChatGPT-Image / Midjourney / Flux / SDXL 怎么适配
-- 人物漂移、服装漂移、手部错误、文字乱码怎么处理
-- 怎么继续新增自己的预设
-
 ---
 
 ## Skill 索引
@@ -94,6 +79,15 @@
 
 ➡️ **[打开 Skill 07](./skills/07-bilingual-wedding-lookbook-presets/SKILL.md)**
 
+### 08｜三视图 + 九组情绪动作人物设定参考图
+**Three-View + Nine-Emotion Character Sheet**
+
+上半部分固定完整全身 Front / Side / Back 三视图，下半部分固定 9 组不同半身情绪动作：轻蔑不屑、无奈、暗爽得意、甜蜜对视、生闷气、委屈撇嘴、毛骨悚然、心虚躲闪、咬牙切齿。
+
+重点强化同一人物身份、同一穿搭、眼神方向变化、动作去重、真实手部与自然表情。支持直接替换 `【这里替换成指定穿搭提示词】`。
+
+➡️ **[打开 Skill 08](./skills/08-three-view-nine-emotion-character-sheet/SKILL.md)**
+
 ---
 
 ## 仓库结构
@@ -116,10 +110,11 @@
     ├── 04-dark-emotion-character-card-presets/
     ├── 05-ultrawide-ui-street-ad-presets/
     ├── 06-four-column-bilingual-fashion-catalog-presets/
-    └── 07-bilingual-wedding-lookbook-presets/
+    ├── 07-bilingual-wedding-lookbook-presets/
+    └── 08-three-view-nine-emotion-character-sheet/
 ```
 
-后续继续按 `08 / 09 / 10...` 顺序新增。
+后续继续按 `09 / 10 / 11...` 顺序新增。
 
 ---
 
@@ -138,13 +133,3 @@
 完整操作请看：**[Skill 使用说明教程](./docs/SKILL-USAGE.zh-CN.md)**
 
 风险说明请看：**[版权、肖像权与人物参考图使用提醒](./docs/RIGHTS-SAFETY.zh-CN.md)**
-
----
-
-<p align="center">
-  <a href="./README.en.md"><kbd>🇺🇸 English</kbd></a>
-  &nbsp;&nbsp;
-  <a href="./docs/SKILL-USAGE.zh-CN.md"><kbd>📘 Skill 使用教程</kbd></a>
-  &nbsp;&nbsp;
-  <a href="./docs/RIGHTS-SAFETY.zh-CN.md"><kbd>⚠️ 版权 / 肖像权提醒</kbd></a>
-</p>
