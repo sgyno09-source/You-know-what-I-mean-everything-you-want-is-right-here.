@@ -73,6 +73,11 @@ A growing collection of reusable image-generation and visual-workflow Skills.<br
 
 [Open Skill 08 / 打开 Skill 08](./skills/08-three-view-nine-emotion-character-sheet/SKILL.md)
 
+### 09 — Blue & White Romantic Resort Outfit Presets
+**蓝白法式浪漫度假穿搭预设**
+
+[Open Skill 09 / 打开 Skill 09](./skills/09-blue-white-romantic-resort-outfit-presets/SKILL.md)
+
 ---
 
 ## Tutorials / 教程
