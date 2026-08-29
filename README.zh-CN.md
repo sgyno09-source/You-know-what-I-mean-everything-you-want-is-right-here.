@@ -82,11 +82,18 @@
 ### 08｜三视图 + 九组情绪动作人物设定参考图
 **Three-View + Nine-Emotion Character Sheet**
 
-上半部分固定完整全身 Front / Side / Back 三视图，下半部分固定 9 组不同半身情绪动作：轻蔑不屑、无奈、暗爽得意、甜蜜对视、生闷气、委屈撇嘴、毛骨悚然、心虚躲闪、咬牙切齿。
-
-重点强化同一人物身份、同一穿搭、眼神方向变化、动作去重、真实手部与自然表情。支持直接替换 `【这里替换成指定穿搭提示词】`。
+上半部分固定完整全身 Front / Side / Back 三视图，下半部分固定 9 组不同半身情绪动作，重点强化同一人物身份、同一穿搭、眼神方向变化、动作去重、真实手部与自然表情。
 
 ➡️ **[打开 Skill 08](./skills/08-three-view-nine-emotion-character-sheet/SKILL.md)**
+
+### 09｜蓝白法式浪漫度假穿搭预设
+**Blue & White Romantic Resort Outfit Presets**
+
+固定白色纯背景、完整全身展示、高清真人摄影与柔和棚拍光，内置 8 套以蓝白、蕾丝、薄纱、针织、碎花、草帽、藤编包和珍珠首饰为核心的浪漫度假 Look。
+
+内置 Look：蓝白蕾丝度假裙、奶油蓝针织牛仔短裤、宝蓝泡泡短裙、薄纱衬衫碎花裙、蓝白蕾丝蛋糕裙、浅蓝碎花公主风、蓝白瓷花度假装、蓝色格纹长裙。
+
+➡️ **[打开 Skill 09](./skills/09-blue-white-romantic-resort-outfit-presets/SKILL.md)**
 
 ---
 
@@ -111,10 +118,11 @@
     ├── 05-ultrawide-ui-street-ad-presets/
     ├── 06-four-column-bilingual-fashion-catalog-presets/
     ├── 07-bilingual-wedding-lookbook-presets/
-    └── 08-three-view-nine-emotion-character-sheet/
+    ├── 08-three-view-nine-emotion-character-sheet/
+    └── 09-blue-white-romantic-resort-outfit-presets/
 ```
 
-后续继续按 `09 / 10 / 11...` 顺序新增。
+后续继续按 `10 / 11 / 12...` 顺序新增。
 
 ---
 
