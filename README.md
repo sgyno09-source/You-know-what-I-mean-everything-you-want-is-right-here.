@@ -16,6 +16,14 @@
   <a href="./docs/SKILL-USAGE.en.md"><kbd>📘 Skill Usage Tutorial</kbd></a>
 </p>
 
+<p align="center">
+  <a href="./docs/RIGHTS-SAFETY.zh-CN.md"><kbd>⚠️ 版权 / 肖像权 / 人物保护提醒</kbd></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="./docs/RIGHTS-SAFETY.en.md"><kbd>⚠️ Rights & Likeness Notice</kbd></a>
+</p>
+
+> **Important / 重要：** 本仓库提供视觉提示词与工作流模板，不代表自动获得人物、照片、专辑封面、Logo、品牌 UI 或其他第三方素材的使用权。使用人物参考图、商业发布或公开传播前，请确认授权、隐私、平台规则与适用法律。 / This repository provides prompt and workflow templates; it does not grant rights to people, photos, album artwork, logos, branded UI, or other third-party assets.
+
 ---
 
 <p align="center">
@@ -66,8 +74,8 @@ A growing collection of reusable image-generation and visual-workflow Skills.<br
 
 - [中文 Skill 使用教程](./docs/SKILL-USAGE.zh-CN.md)
 - [English Skill Usage Tutorial](./docs/SKILL-USAGE.en.md)
-
-教程包含：选择 Skill、导入 `SKILL.md`、参考图使用、变量替换、批量 Look、不同图像模型适配、常见问题与新增预设方法。
+- [版权、肖像权与人物参考图使用提醒](./docs/RIGHTS-SAFETY.zh-CN.md)
+- [Copyright, Likeness & Reference-Image Safety Notice](./docs/RIGHTS-SAFETY.en.md)
 
 ---
 
