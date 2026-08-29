@@ -34,6 +34,11 @@ A growing collection of reusable image-generation and visual-workflow Skills.<br
 
 [Open Skill 03 / 打开 Skill 03](./skills/03-white-studio-outfit-emotion-presets/SKILL.md)
 
+### 04 — Dark Emotion Character Card Presets
+**暗黑电影情绪角色设定卡预设**
+
+[Open Skill 04 / 打开 Skill 04](./skills/04-dark-emotion-character-card-presets/SKILL.md)
+
 ---
 
 <p align="center">
