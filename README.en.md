@@ -26,21 +26,6 @@ Also review:
 
 ➡️ **[Copyright, Likeness & Reference-Image Safety Notice](./docs/RIGHTS-SAFETY.en.md)**
 
-This is especially important when using real-person references, celebrity / influencer likenesses, album artwork, brand logos, recognizable product UI, or any commercial workflow.
-
-The tutorial covers:
-
-- what a Skill is
-- how to choose the right Skill
-- how to import `SKILL.md`
-- how to use a character reference image
-- how to replace `{{variables}}`
-- how to call built-in OUTFIT / LOOK presets
-- how to batch multiple Looks
-- ChatGPT-Image / Midjourney / Flux / SDXL adaptation
-- identity drift, outfit drift, hand errors, and text-rendering issues
-- how to add your own presets
-
 ---
 
 ## Skill Index
@@ -80,6 +65,15 @@ Premium white-studio bridal catalog pages with bilingual wedding-dress titles, e
 
 ➡️ **[Open Skill 07](./skills/07-bilingual-wedding-lookbook-presets/SKILL.md)**
 
+### 08 | Three-View + Nine-Emotion Character Sheet
+A clean photorealistic Character Sheet with full-body Front / Side / Back views on top and nine distinct half-body emotion-action references below.
+
+Built-in emotions: Disdainful Contempt, Helpless Exasperation, Secretly Pleased, Sweet Affectionate Gaze, Sulking, Hurt Pout, Creeped Out, Guilty Avoidance, and Gritted-Teeth Anger.
+
+The Skill emphasizes exact identity consistency, one outfit across all panels, varied gaze direction, non-repeating gestures, natural hand anatomy, and realistic facial acting.
+
+➡️ **[Open Skill 08](./skills/08-three-view-nine-emotion-character-sheet/SKILL.md)**
+
 ---
 
 ## Repository Structure
@@ -102,10 +96,11 @@ Premium white-studio bridal catalog pages with bilingual wedding-dress titles, e
     ├── 04-dark-emotion-character-card-presets/
     ├── 05-ultrawide-ui-street-ad-presets/
     ├── 06-four-column-bilingual-fashion-catalog-presets/
-    └── 07-bilingual-wedding-lookbook-presets/
+    ├── 07-bilingual-wedding-lookbook-presets/
+    └── 08-three-view-nine-emotion-character-sheet/
 ```
 
-Future Skills continue in numeric order: `08 / 09 / 10...`.
+Future Skills continue in numeric order: `09 / 10 / 11...`.
 
 ---
 
@@ -124,13 +119,3 @@ Future Skills continue in numeric order: `08 / 09 / 10...`.
 For the complete workflow, see **[Skill Usage Tutorial](./docs/SKILL-USAGE.en.md)**.
 
 For rights and risk guidance, see **[Copyright, Likeness & Reference-Image Safety Notice](./docs/RIGHTS-SAFETY.en.md)**.
-
----
-
-<p align="center">
-  <a href="./README.zh-CN.md"><kbd>🇨🇳 中文说明</kbd></a>
-  &nbsp;&nbsp;
-  <a href="./docs/SKILL-USAGE.en.md"><kbd>📘 Skill Usage Tutorial</kbd></a>
-  &nbsp;&nbsp;
-  <a href="./docs/RIGHTS-SAFETY.en.md"><kbd>⚠️ Rights & Likeness Notice</kbd></a>
-</p>
