@@ -13,106 +13,59 @@
 ## Skill Index
 
 ### 01 | Three-View Emotion Outfit Board Generator
+Turns character, outfit, footwear, bag, accessory, and emotion descriptions into a consistent Front / 90° Side / Back / Headshot fashion board.
 
-Turns character, clothing, footwear, bags, accessories, and emotion descriptions into a consistent fashion reference board with:
-
-- Front view
-- 90° Side view
-- Back view
-- Matching emotional Headshot
-
-The default setup uses a minimal white studio, soft high-key lighting, realistic skin and fabric textures, and a Fashion Lookbook / Character Sheet layout.
-
-**Best for:** character turnarounds, outfit boards, emotion boards, fashion reference sheets, and batch prompt generation.
+**Best for:** character turnarounds, outfit boards, emotion sheets, fashion references, and batch prompt generation.
 
 ➡️ **[Open Skill 01](./skills/01-three-view-emotion-outfit-board/SKILL.md)**
 
 ---
 
 ### 02 | Mirror Selfie Lookbook Emotion Board
+Creates a black editorial mirror-selfie Look Book with consistent identity, environment, outfit, footwear, and emotional Headshots.
 
-Turns indoor full-length mirror selfies, multiple urban outfits, and matching micro-expressions into a consistent black editorial Look Book with:
-
-- Front mirror selfie
-- Side mirror selfie
-- Back mirror selfie
-- Full-face emotional Headshot
-
-It locks the same adult character identity, hairstyle, outfit, footwear, black smartphone, environment, lighting, and natural body proportions across all views.
-
-### Built-in 8 Looks
-
-1. Black camisole mini dress — vulnerable / hurt expression
-2. White shirt + black leather mini skirt — innocent gaze
-3. Black off-shoulder babydoll dress — anticipation
-4. White shirt + cream pencil midi skirt — relaxed breathing
-5. Gray-blue camisole + white mini skirt — subtle smug satisfaction
-6. Coffee-brown fitted romper — delayed soft smile
-7. Nude-pink top + white mini skirt — hesitant, about to speak
-8. Nude-pink A-line mini dress — playful glance back
-
-**Best for:** urban fashion Look Books, mirror-selfie reference boards, wardrobe character sheets, fashion archives, and expression studies.
+**Best for:** urban fashion Look Books, mirror-selfie references, wardrobe character sheets, and expression studies.
 
 ➡️ **[Open Skill 02](./skills/02-mirror-selfie-lookbook-emotion-board/SKILL.md)**
 
 ---
 
 ### 03 | White Studio Outfit Emotion Presets
+A fixed-preset Skill with eight built-in white-studio outfits and matching emotions, generating Front / Side / Back / Headshot views.
 
-A fixed-preset Skill with eight built-in white-studio outfits and matching emotions. Each Look generates:
-
-- Front view
-- 90° Side view
-- Back view
-- Matching emotional Headshot
-
-The default character is a clearly adult young East Asian woman in a minimal white studio with soft high-key lighting, realistic skin texture, and realistic fabric rendering.
-
-### Built-in 8 Looks
-
-1. White asymmetric camisole + denim shorts — chin-up smug expression
-2. Pink-gray plaid shirt + black shorts — huge joyful grin
-3. Blue-white striped shirt + black mini skirt — tearful downward gaze
-4. Gray knit cardigan + denim mini skirt — exaggerated angry O-mouth
-5. Black floral square-neck maxi dress — blushing face-covering shyness
-6. White sleeveless top + irregular beige skirt — tilted-head skeptical eyebrow raise
-7. Light-pink tiered maxi dress — wide-eyed explosive anger
-8. Black floral camisole maxi dress — sleepy yawning expression
-
-**Best for:** fixed outfit batch generation, wardrobe archives, expression sheets, Fashion Lookbooks, and Character Sheets.
+**Best for:** batch outfit generation, wardrobe archives, expression sheets, Fashion Lookbooks, and Character Sheets.
 
 ➡️ **[Open Skill 03](./skills/03-white-studio-outfit-emotion-presets/SKILL.md)**
 
 ---
 
 ### 04 | Dark Emotion Character Card Presets
+Creates dark cinematic character dossiers with a dominant emotional portrait, Front / 3/4 / Side views, a hand-drawn Headshot, bilingual titles, and PROP labels.
 
-Turns intense emotional acting, fixed fashion looks, visual props, and cinematic photography into a dark editorial character dossier with:
-
-- Left 55–65%: dominant emotional half-body portrait
-- Right: Front / 3/4 View / Side full-body views
-- Bottom: rough white hand-drawn Headshot
-- Top-left: large Look number + bilingual emotion title
-- Bottom: PROP label
-
-The default visual direction uses a black / charcoal studio, cold-gray cinematic lighting, low saturation, realistic tears and skin texture, subtle film grain, and a psychological-drama fashion editorial look.
-
-### Built-in 8 Emotion Presets
-
-1. Silent Tears — gray ruched mini dress — Water Bottle
-2. Breakdown — cream strapless knit mini dress — Banana
-3. Bite Back Tears — cream off-shoulder lace mini dress — Water Bottle
-4. Cold Fury — cream halter lace mini dress — Banana
-5. Loud Argument — black satin top + black leather mini skirt — Water Bottle
-6. Mocking Smirk — black V-neck mini dress — Banana
-7. On the Verge of Tears — black satin camisole mini dress — Water Bottle
-8. Restrained Resolve — black lace knit mini dress — Banana
-
-The taped banana is treated only as an absurd visual gag / conceptual-art prop, never as a weapon.
-
-**Best for:** cinematic character dossiers, dark fashion boards, emotional acting references, psychological-drama concept posters, and Character Sheets.
+**Best for:** cinematic character dossiers, dark fashion boards, emotional acting references, and psychological-drama concept posters.
 
 ➡️ **[Open Skill 04](./skills/04-dark-emotion-character-card-presets/SKILL.md)**
+
+---
+
+### 05 | Ultrawide UI Street Ad Presets
+Combines a consistent reference person, street fashion, 24–28mm forced perspective, and physicalized mobile UI into hyper-realistic 3:4 vertical commercial photography.
+
+### Built-in 7 Visual Presets
+
+1. Floating music-player cards around an extreme foreground hand
+2. Giant photo share sheet with the person breaking out of the screen
+3. Three-column share UI with a seated body extending beyond the photo frame
+4. Wearable music-player card connected to white wired earphones
+5. Inside-the-bag POV with a translucent incoming-call interface
+6. Oversized-head / tiny-body optical illusion with giant foreground hands
+7. First-person street map rendered as a physical glass navigation panel
+
+Supports replaceable variables such as `{{人物参考图}}`, `{{服装}}`, `{{歌曲名}}`, `{{专辑封面}}`, `{{城市}}`, `{{街道}}`, and `{{目的地}}`, while emphasizing correct hand anatomy, realistic glass thickness, reflections, shadows, occlusion, and depth layering.
+
+**Best for:** creative street photography, music-tech ads, mobile UI visuals, fashion editorials, forced-perspective photography, and surreal commercial campaigns.
+
+➡️ **[Open Skill 05](./skills/05-ultrawide-ui-street-ad-presets/SKILL.md)**
 
 ---
 
@@ -120,10 +73,10 @@ The taped banana is treated only as an absurd visual gag / conceptual-art prop, 
 
 ```text
 .
-├── README.md                       # Language selector
-├── README.zh-CN.md                # Chinese documentation
-├── README.en.md                   # English documentation
-├── SKILL.md                       # Legacy compatibility entry
+├── README.md
+├── README.zh-CN.md
+├── README.en.md
+├── SKILL.md
 └── skills/
     ├── 01-three-view-emotion-outfit-board/
     │   └── SKILL.md
@@ -131,32 +84,18 @@ The taped banana is treated only as an absurd visual gag / conceptual-art prop, 
     │   └── SKILL.md
     ├── 03-white-studio-outfit-emotion-presets/
     │   └── SKILL.md
-    └── 04-dark-emotion-character-card-presets/
+    ├── 04-dark-emotion-character-card-presets/
+    │   └── SKILL.md
+    └── 05-ultrawide-ui-street-ad-presets/
         └── SKILL.md
 ```
 
-Future Skills can continue in numeric order:
-
-```text
-05-skill-name/
-06-skill-name/
-07-skill-name/
-```
+Future Skills can continue in numeric order: `06 / 07 / 08...`.
 
 ---
 
 ## Usage
-
-Open the desired `SKILL.md` and import its full instructions into a compatible Skill / Agent workflow.
-
-Each Skill is designed to include:
-
-- purpose
-- trigger intent
-- execution workflow
-- character and outfit consistency rules
-- output templates
-- safety boundaries
+Open the desired `SKILL.md` and import its full instructions into a compatible Skill / Agent workflow. Each Skill is designed to include purpose, trigger intent, execution workflow, consistency rules, output templates, and safety boundaries.
 
 ---
 
