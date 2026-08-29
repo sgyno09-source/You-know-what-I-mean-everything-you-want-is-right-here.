@@ -51,21 +51,31 @@ Creates dark cinematic character dossiers with a dominant emotional portrait, Fr
 ### 05 | Ultrawide UI Street Ad Presets
 Combines a consistent reference person, street fashion, 24–28mm forced perspective, and physicalized mobile UI into hyper-realistic 3:4 vertical commercial photography.
 
-### Built-in 7 Visual Presets
-
-1. Floating music-player cards around an extreme foreground hand
-2. Giant photo share sheet with the person breaking out of the screen
-3. Three-column share UI with a seated body extending beyond the photo frame
-4. Wearable music-player card connected to white wired earphones
-5. Inside-the-bag POV with a translucent incoming-call interface
-6. Oversized-head / tiny-body optical illusion with giant foreground hands
-7. First-person street map rendered as a physical glass navigation panel
-
-Supports replaceable variables such as `{{人物参考图}}`, `{{服装}}`, `{{歌曲名}}`, `{{专辑封面}}`, `{{城市}}`, `{{街道}}`, and `{{目的地}}`, while emphasizing correct hand anatomy, realistic glass thickness, reflections, shadows, occlusion, and depth layering.
-
 **Best for:** creative street photography, music-tech ads, mobile UI visuals, fashion editorials, forced-perspective photography, and surreal commercial campaigns.
 
 ➡️ **[Open Skill 05](./skills/05-ultrawide-ui-street-ad-presets/SKILL.md)**
+
+---
+
+### 06 | Four-Column Bilingual Fashion Catalog Presets
+Creates a clean premium fashion catalog on a light cream-beige studio background using a fixed four-column layout: Front / Side / Back / Headshot. The top displays `OUTFIT X · Chinese Name / English Name`, followed by a bilingual expression subtitle, with bilingual labels beneath all four columns.
+
+### Built-in 8 Outfits
+
+1. Brown Bandeau and Faux-Fur Shawl Set — Smug Mischievous Smirk
+2. Cream White Ruffled Two-Piece Set — Upward Blank Stare
+3. Cream White Spaghetti-Strap Bodycon Mini Dress — Innocent Face-Cupping
+4. Nude Taupe Asymmetric Bodycon Mini Dress — Annoyed and Aggrieved
+5. Black Halter Bodycon Mini Dress — Side Glance Peek
+6. Mustard Yellow Long-Sleeve Mini Dress — Finger-to-Lip Thinking Pose
+7. Purple One-Shoulder Halter Bodycon Dress — Cheek-Resting Cutesy Pose
+8. Black Strapless Romper — Calm Direct Gaze
+
+The Skill keeps the same clearly adult young Asian woman, hairstyle, outfit construction, footwear, bags, and accessories consistent across all four columns while emphasizing realistic skin, fabric rendering, clean bilingual typography, and balanced catalog spacing.
+
+**Best for:** Fashion Lookbooks, product-detail pages, wardrobe archives, four-view outfit presentation, and bilingual fashion catalogs.
+
+➡️ **[Open Skill 06](./skills/06-four-column-bilingual-fashion-catalog-presets/SKILL.md)**
 
 ---
 
@@ -86,11 +96,13 @@ Supports replaceable variables such as `{{人物参考图}}`, `{{服装}}`, `{{�
     │   └── SKILL.md
     ├── 04-dark-emotion-character-card-presets/
     │   └── SKILL.md
-    └── 05-ultrawide-ui-street-ad-presets/
+    ├── 05-ultrawide-ui-street-ad-presets/
+    │   └── SKILL.md
+    └── 06-four-column-bilingual-fashion-catalog-presets/
         └── SKILL.md
 ```
 
-Future Skills can continue in numeric order: `06 / 07 / 08...`.
+Future Skills can continue in numeric order: `07 / 08 / 09...`.
 
 ---
 
