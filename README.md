@@ -39,6 +39,11 @@ A growing collection of reusable image-generation and visual-workflow Skills.<br
 
 [Open Skill 04 / 打开 Skill 04](./skills/04-dark-emotion-character-card-presets/SKILL.md)
 
+### 05 — Ultrawide UI Street Ad Presets
+**超广角 UI × 真人街头广告视觉预设**
+
+[Open Skill 05 / 打开 Skill 05](./skills/05-ultrawide-ui-street-ad-presets/SKILL.md)
+
 ---
 
 <p align="center">
