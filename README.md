@@ -44,6 +44,11 @@ A growing collection of reusable image-generation and visual-workflow Skills.<br
 
 [Open Skill 05 / 打开 Skill 05](./skills/05-ultrawide-ui-street-ad-presets/SKILL.md)
 
+### 06 — Four-Column Bilingual Fashion Catalog Presets
+**四栏中英双语时装图鉴预设**
+
+[Open Skill 06 / 打开 Skill 06](./skills/06-four-column-bilingual-fashion-catalog-presets/SKILL.md)
+
 ---
 
 <p align="center">
