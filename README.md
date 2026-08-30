@@ -26,57 +26,47 @@
 
 ---
 
-<p align="center">
-A growing collection of reusable image-generation and visual-workflow Skills.<br>
-一个持续整理的图像生成、人物设定与视觉工作流 Skill 仓库。
-</p>
-
 ## Skills
 
 ### 01 — Three-View Emotion Outfit Board
-**三视图情绪穿搭图鉴生成器**
-
+**三视图情绪穿搭图鉴生成器**  
 [Open Skill 01 / 打开 Skill 01](./skills/01-three-view-emotion-outfit-board/SKILL.md)
 
 ### 02 — Mirror Selfie Lookbook Emotion Board
-**镜面自拍穿搭情绪 Look Book 生成器**
-
+**镜面自拍穿搭情绪 Look Book 生成器**  
 [Open Skill 02 / 打开 Skill 02](./skills/02-mirror-selfie-lookbook-emotion-board/SKILL.md)
 
 ### 03 — White Studio Outfit Emotion Presets
-**白色摄影棚穿搭情绪预设图鉴**
-
+**白色摄影棚穿搭情绪预设图鉴**  
 [Open Skill 03 / 打开 Skill 03](./skills/03-white-studio-outfit-emotion-presets/SKILL.md)
 
 ### 04 — Dark Emotion Character Card Presets
-**暗黑电影情绪角色设定卡预设**
-
+**暗黑电影情绪角色设定卡预设**  
 [Open Skill 04 / 打开 Skill 04](./skills/04-dark-emotion-character-card-presets/SKILL.md)
 
 ### 05 — Ultrawide UI Street Ad Presets
-**超广角 UI × 真人街头广告视觉预设**
-
+**超广角 UI × 真人街头广告视觉预设**  
 [Open Skill 05 / 打开 Skill 05](./skills/05-ultrawide-ui-street-ad-presets/SKILL.md)
 
 ### 06 — Four-Column Bilingual Fashion Catalog Presets
-**四栏中英双语时装图鉴预设**
-
+**四栏中英双语时装图鉴预设**  
 [Open Skill 06 / 打开 Skill 06](./skills/06-four-column-bilingual-fashion-catalog-presets/SKILL.md)
 
 ### 07 — Bilingual Wedding Lookbook Presets
-**中英双语婚纱四宫格图鉴预设**
-
+**中英双语婚纱四宫格图鉴预设**  
 [Open Skill 07 / 打开 Skill 07](./skills/07-bilingual-wedding-lookbook-presets/SKILL.md)
 
 ### 08 — Three-View + Nine-Emotion Character Sheet
-**三视图 + 九组情绪动作人物设定参考图**
-
+**三视图 + 九组情绪动作人物设定参考图**  
 [Open Skill 08 / 打开 Skill 08](./skills/08-three-view-nine-emotion-character-sheet/SKILL.md)
 
 ### 09 — Blue & White Romantic Resort Outfit Presets
-**蓝白法式浪漫度假穿搭预设**
-
+**蓝白法式浪漫度假穿搭预设**  
 [Open Skill 09 / 打开 Skill 09](./skills/09-blue-white-romantic-resort-outfit-presets/SKILL.md)
+
+### 10 — Peephole Fisheye Girlfriend Expression Series
+**门镜鱼眼女友互动表情系列**  
+[Open Skill 10 / 打开 Skill 10](./skills/10-peephole-fisheye-girlfriend-expression-series/SKILL.md)
 
 ---
 
@@ -86,11 +76,3 @@ A growing collection of reusable image-generation and visual-workflow Skills.<br
 - [English Skill Usage Tutorial](./docs/SKILL-USAGE.en.md)
 - [版权、肖像权与人物参考图使用提醒](./docs/RIGHTS-SAFETY.zh-CN.md)
 - [Copyright, Likeness & Reference-Image Safety Notice](./docs/RIGHTS-SAFETY.en.md)
-
----
-
-<p align="center">
-  <a href="./README.zh-CN.md"><kbd>🇨🇳 中文说明</kbd></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="./README.en.md"><kbd>🇺🇸 English</kbd></a>
-</p>
